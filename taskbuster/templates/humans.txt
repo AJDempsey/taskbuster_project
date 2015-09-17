@@ -2,14 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Anthony Dempsey -- Developer
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+   First attempt at building a website.
     <name>
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
+    Django,
+    HTML5 Boilerplate, CSS3
     jQuery, Modernizr
+    Twitter Bootstrap
